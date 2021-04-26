@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1618309472 source:c:\users\pc\desktop\game_new\tank\baseobject.cpp
+	"BaseObject.h"
+
+1618329068 c:\users\pc\desktop\game_new\tank\baseobject.h
+	"CommonFunction.h"
+
+1619089200 c:\users\pc\desktop\game_new\tank\commonfunction.h
+	<time.h>
+	<vector>
+	<iostream>
+	<string.h>
+	<fstream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<stdlib.h>
+
+1618326500 source:c:\users\pc\desktop\game_new\tank\commonfunction.cpp
+	"CommonFunction.h"
+
+1617503671 source:c:\users\pc\desktop\game_new\tank\gamemap.cpp
+	"GameMap.h"
+
+1616422124 c:\users\pc\desktop\game_new\tank\gamemap.h
+	"CommonFunction.h"
+	"BaseObject.h"
+
+1619174164 source:c:\users\pc\desktop\game_new\tank\main.cpp
+	"CommonFunction.h"
+	"BaseObject.h"
+	"GameMap.h"
+	"MainObject.h"
+	"Time_FPS.h"
+	"TheatsObject.h"
+	"Explosion.h"
+	"TextObject.h"
+	"Menu.h"
+	"Others.h"
+	"Bonus_object.h"
+
+1619089434 source:c:\users\pc\desktop\game_new\tank\mainobject.cpp
+	"MainObject.h"
+
+1619089233 c:\users\pc\desktop\game_new\tank\mainobject.h
+	"CommonFunction.h"
+	"BaseObject.h"
+	"BulletObject.h"
+
+1617504143 source:c:\users\pc\desktop\game_new\tank\bulletobject.cpp
+	"BulletObject.h"
+
+1619168155 c:\users\pc\desktop\game_new\tank\bulletobject.h
+	"BaseObject.h"
+	"BulletObject.h"
+	"CommonFunction.h"
+
+1616669394 source:c:\users\pc\desktop\game_new\tank\time_fps.cpp
+	"Time_FPS.h"
+	"CommonFunction.h"
+
+1616677352 c:\users\pc\desktop\game_new\tank\time_fps.h
+
+1619179447 source:c:\users\pc\desktop\game_new\tank\theatsobject.cpp
+	"TheatsObject.h"
+
+1618338121 c:\users\pc\desktop\game_new\tank\theatsobject.h
+	"CommonFunction.h"
+	"BaseObject.h"
+	"BulletObject.h"
+
+1618230671 source:c:\users\pc\desktop\game_new\tank\explosion.cpp
+	"Explosion.h"
+
+1618230671 c:\users\pc\desktop\game_new\tank\explosion.h
+	"BaseObject.h"
+	"CommonFunction.h"
+
+1618144096 source:c:\users\pc\desktop\game_new\tank\textobject.cpp
+	"TextObject.h"
+
+1618128441 c:\users\pc\desktop\game_new\tank\textobject.h
+	"CommonFunction.h"
+
+1618147619 source:c:\users\pc\desktop\game_new\tank\menu.cpp
+	"Menu.h"
+
+1618147595 c:\users\pc\desktop\game_new\tank\menu.h
+	"BaseObject.h"
+	"CommonFunction.h"
+
+1618231682 source:c:\users\pc\desktop\game_new\tank\enemy.cpp
+
+1619174495 source:c:\users\pc\desktop\game_new\tank\others.cpp
+	"Others.h"
+
+1619173999 c:\users\pc\desktop\game_new\tank\others.h
+	"CommonFunction.h"
+	"BaseObject.h"
+	"TextObject.h"
+
+1619167991 source:c:\users\pc\desktop\game_new\tank\bonus_object.cpp
+	"Bonus_object.h"
+
+1619167870 c:\users\pc\desktop\game_new\tank\bonus_object.h
+	"BaseObject.h"
+	"CommonFunction.h"
+
+1619167398 c:\users\pc\desktop\game_new\tank\ggg.h
+	"BaseObject.h"
+	"CommonFunction.h"
+
